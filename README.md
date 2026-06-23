@@ -40,8 +40,8 @@ docker-infrastructure-lab/
 │
 ├── docker-basics/
 │   ├── container-commands.md
-│   └── image-commands.md
-│
+│   └── image-commands.
+|
 ├── dockerfile-projects/
 │   ├── nginx-app/
 │   ├── python-app/
