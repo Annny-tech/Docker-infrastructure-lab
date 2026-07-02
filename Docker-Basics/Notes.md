@@ -95,3 +95,5 @@ A public cloud-based registry used to store and share Docker images.
 ## Summary
 
 Docker is a containerization platform that allows developers to package applications and dependencies into portable containers. It improves consistency, portability, scalability, and deployment speed while reducing resource consumption compared to traditional virtual machines.
+
+Basic of docker
